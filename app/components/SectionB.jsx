@@ -42,7 +42,7 @@ export default function SectionB() {
         </div>
         <div className="flex justify-center align-center p-12">
           <Image
-            src="/vercel.svg"
+            src="/glow-bitcoin-cube.png"
             className="dark:invert"
             width={200}
             height={200}
