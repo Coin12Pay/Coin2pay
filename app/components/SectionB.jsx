@@ -21,8 +21,8 @@ export default function SectionB() {
           <Image
             src="/vercel.svg"
             className="dark:invert"
-            width={200}
-            height={200}
+            width={250}
+            height={250}
             alt=""
           />
         </div>
@@ -43,9 +43,9 @@ export default function SectionB() {
         <div className="flex justify-center align-center p-12">
           <Image
             src="/glow-bitcoin-cube.png"
-            className="dark:invert"
-            width={200}
-            height={200}
+            // className="dark:invert"
+            width={250}
+            height={250}
             alt=""
           />
         </div>
