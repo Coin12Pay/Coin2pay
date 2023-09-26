@@ -16,9 +16,16 @@ export default function Navbar() {
       </div>
       <div>
         <ul className="sm:flex justify-evenly gap-8 hidden ">
-          <li>Developers</li>
-          <li>Learn</li>
-          <li>Community</li>
+          <Link href="https://explorer.coin12pay.com/api-docs" target="_blank">
+            {" "}
+            <li>Developers</li>{" "}
+          </Link>
+          {/* <li>Learn</li> */}
+          <Link href="#community">
+            {" "}
+            <li>Community</li>
+          </Link>
+
           <Link href="https://explorer.coin12pay.com/" target="_blank">
             {" "}
             <li>Explorer</li>

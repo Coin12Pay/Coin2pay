@@ -10,7 +10,10 @@ import {
 
 export default function Community() {
   return (
-    <div className="my-20 bg-[#505b63] py-12 sm:mx-20 px-4 rounded">
+    <div
+      className="my-20 bg-[#505b63] py-12 sm:mx-20 px-4 rounded"
+      id="community"
+    >
       <div className="flex flex-col align-center justify-center text-center">
         <h2 className="text-2xl font-semibold">Join the community</h2>
         <p className="pt-8 sm:px-40">
