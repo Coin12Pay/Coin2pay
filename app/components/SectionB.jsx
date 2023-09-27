@@ -21,7 +21,7 @@ export default function SectionB() {
           <Image
             src="/3d-casual-life-cryptocurrency-market-growth.png"
             // className="dark:invert"
-            width={250}
+            width={350}
             height={250}
             alt=""
           />
