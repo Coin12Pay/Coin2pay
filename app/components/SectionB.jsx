@@ -19,8 +19,8 @@ export default function SectionB() {
         </div>
         <div className="flex justify-center align-center p-12">
           <Image
-            src="/vercel.svg"
-            className="dark:invert"
+            src="/3d-casual-life-cryptocurrency-market-growth.png"
+            // className="dark:invert"
             width={250}
             height={250}
             alt=""
@@ -63,7 +63,7 @@ export default function SectionB() {
           <Image
             src="/ecosystem.png"
             className=""
-            width={250}
+            width={350}
             height={250}
             alt=""
           />
