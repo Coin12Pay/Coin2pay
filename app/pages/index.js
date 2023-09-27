@@ -44,7 +44,7 @@ export default function Home() {
           C12 can be used by anyone, anywhere, anytime.
         </p>
         <div className="my-8 gap-4 flex">
-          <Link src="https://metamask.io/" target="_blank">
+          <Link href="https://metamask.io/" target="_blank">
             <button
               className="py-2 px-4  text-base rounded-2xl hover:bg-white hover:text-black flex"
               // onClick={handleSubmit}
